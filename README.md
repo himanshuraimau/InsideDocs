@@ -2,7 +2,7 @@
 
 A powerful RAG (Retrieval Augmented Generation) application for creating an internal knowledge base with document upload, AI-powered search, and chat functionality. This application leverages the [AI SDK](https://sdk.vercel.ai/docs) and [Next.js](https://nextjs.org/) to provide an efficient way to query your organization's knowledge.
 
-![Inside Docs](public/iphone.png)
+![Inside Docs](public/image.png)
 
 ## Features
 
